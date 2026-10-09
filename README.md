@@ -1,118 +1,159 @@
 
-<h1 align="center">Hi 👋, I'm Bhoomika B G</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Engineering Graduate | Aspiring Software Developer & QA Engineer</h3>
+# 👋 Hi, I'm Bhoomika B G
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+SQL;Software+Development+%7C+Software+Testing;Learning%2C+Building%2C+and+Improving" alt="Typing introduction" />
-</p>
+### Computer Science Engineering Graduate | Aspiring Software Developer & QA Engineer
+
+**Building skills • Solving problems • Creating better solutions**
+
+[![GitHub](https://img.shields.io/badge/GitHub-bhoomika13--2004-181717?style=for-the-badge&logo=github)](https://github.com/bhoomika13-2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomikabg/)
+
+📍 Karnataka, India | 🎓 2026 Batch | 💼 Open to Fresher Opportunities
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-- 🎓 Computer Science Engineering graduate from the 2026 batch.
-- 💻 Interested in software development, programming, and application development.
-- 🧪 Open to opportunities in Software Testing, Manual Testing, API Testing, and Quality Assurance.
-- 🌱 Continuously improving my technical knowledge and problem-solving skills.
-- 🔍 Interested in understanding application functionality, identifying defects, and improving software quality.
-- 🤝 Open to entry-level IT opportunities where I can learn, contribute, and grow professionally.
+Hello! I'm **Bhoomika**, a Computer Science Engineering graduate interested in building reliable software applications and improving software quality.
+
+- 💻 Interested in Java, programming, web technologies, and databases.
+- 🧪 Open to Software Testing, Manual Testing, API Testing, and QA roles.
+- 🔍 Interested in test case design, identifying defects, and validating application functionality.
+- 🌱 Continuously learning new technologies and improving my technical skills.
+- 🤝 Looking for opportunities to contribute to a team, gain practical experience, and grow in the IT industry.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Java
-- Python (Basics)
-- JavaScript
-- C 
+### 💻 Programming Languages
 
-### Web Technologies
-- HTML5
-- CSS3
-- React
-- Node.js
-- Spring Boot
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Database
-- SQL
-- MySQL
-- MongoDB
+### 🌐 Web & Backend Development
 
-### Software Testing
-- Manual Testing Fundamentals
-- Test Case Design and Execution
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- API Testing Fundamentals
-- Database Validation
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Tools & Development
-- Git
-- GitHub
-- Postman
-- Visual Studio Code
-- Eclipse
+### 🗄️ Database & API
 
-### Networking & Cloud Fundamentals
-- TCP/IP
-- DNS and DHCP
-- HTTP/HTTPS
-- LAN/WAN Fundamentals
-- Microsoft Azure Fundamentals
-- Virtual Machines and Networking Basics
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧪 Software Testing & QA
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-4682B4?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-7B68EE?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-FF8C00?style=for-the-badge)
+![Database Testing](https://img.shields.io/badge/Database_Validation-008B8B?style=for-the-badge)
+
+### 🔧 Tools, Networking & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-00599C?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhoomika13-2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika13-2004&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhoomika13-2004&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomika13-2004&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Project
 
-### Human Brain Wave Analysis for Emotion Recognition Using Digitized EEG Signals
+### 🧠 Human Brain Wave Analysis for Emotion Recognition Using Digitized EEG Signals
 
-- Developed an academic project focused on recognizing emotional states from EEG signals.
-- Explored EEG signal preprocessing and feature extraction techniques.
-- Worked with a deep learning-based GRU model for emotion classification.
-- Focused on classifying emotions into Positive, Negative, and Neutral categories.
-- Used Python and machine learning concepts to explore EEG-based emotion recognition.
+An academic project focused on classifying emotional states using EEG brain-wave signals.
 
-**Technologies:** Python | Deep Learning | GRU | EEG Signal Processing
+**Key highlights**
+
+- 📡 Explored EEG signal preprocessing and feature extraction.
+- 🧠 Worked with a GRU-based deep learning model.
+- 📊 Classified emotional states into Positive, Negative, and Neutral categories.
+- 🐍 Applied Python and machine learning concepts to EEG signal analysis.
+
+**Technologies:** Python • Deep Learning • GRU • EEG Signal Processing
+
+🔗 [Explore my GitHub repositories](https://github.com/bhoomika13-2004?tab=repositories)
 
 ---
 
 ## 📜 Certifications
 
-- Programming in C — Simplilearn
-- Machine Learning — NPTEL
-- Programming in Java — NPTEL
+| Certification | Provider |
+|---|---|
+| Programming in C | Simplilearn |
+| Machine Learning | NPTEL |
+| Programming in Java | NPTEL |
 
 ---
 
 ## 🎯 Career Interests
 
-- Software Developer
-- Java Developer
-- Application Support Engineer
-- Software Test Engineer
-- Manual Tester
-- QA Engineer
-- API Testing / Database Testing
+<div align="center">
+
+![Software Development](https://img.shields.io/badge/Software_Development-0078D4?style=flat-square)
+![Java Developer](https://img.shields.io/badge/Java_Developer-ED8B00?style=flat-square)
+![Application Support](https://img.shields.io/badge/Application_Support-008577?style=flat-square)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2E8B57?style=flat-square)
+![QA Engineer](https://img.shields.io/badge/QA_Engineer-7B68EE?style=flat-square)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square)
+
+</div>
+
+I'm open to entry-level opportunities where I can apply my skills, learn from experienced professionals, and contribute to quality software solutions.
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhoomikabg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/bhoomika13-2004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomikabg/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/bhoomika13-2004)
 
-<p align="center">
-  💡 <i>Learning every day, building new skills, and working towards becoming a better IT professional.</i>
-</p>
+### 💙 Learning every day. Building new skills. Growing one step at a time.
+
+*"Great things take time — consistency makes the difference."*
+
+</div>
