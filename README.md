@@ -26,7 +26,7 @@
 - Java
 - Python (Basics)
 - JavaScript
-- C (Basics)
+- C 
 
 ### Web Technologies
 - HTML5
